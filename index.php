@@ -16,7 +16,7 @@
 		<!-- Header -->
 			<header id="header">
 				<div class="inner">
-					<a href="#" class="image avatar"><img src="images/avatar.jpg" alt="" /></a>
+					<a href="#" class="image avatar"><img src="images/myProfile.png" alt="" /></a>
 					<h1><strong>저는 오원빈입니다.</strong><br>C#,Oracle SQL , WPF</br></h1>
 				</div>
 			</header>
@@ -57,7 +57,7 @@
 							<h4>1. C#</h4> 
 							   Linq를 사용할 수 있습니다.<br/>
 							   C#에서 제공하는 이벤트, 클래스 , 메서드를 적절히 사용 할 수 있습니다.<br/>
-							   UserControl을 만들어서 업무에 적용한 적 있습니다.<br/><br/>
+							   UserControl을 만들어서 업무에 적용할 수 있습니다.<br/><br/>
 							<h4>2. Oracle SQL</h4>
 							SELECT , UPDATE, INSERT , MERGE문 등 SQL을 작성할 수 있습니다.<br/>
 							PROCEDURE, PACKAGE, TRIGGER, FUNCTION등 PL/SQL을 작성할 수 있습니다.<br/>
